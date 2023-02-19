@@ -1,4 +1,4 @@
-# auto_aiplane_mode
+# auto_airplane_mode
 
 A new Flutter project.
 

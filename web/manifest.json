@@ -1,6 +1,6 @@
 {
-    "name": "auto_aiplane_mode",
-    "short_name": "auto_aiplane_mode",
+    "name": "auto_airplane_mode",
+    "short_name": "auto_airplane_mode",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
